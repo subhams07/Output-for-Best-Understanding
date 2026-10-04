@@ -1,4 +1,4 @@
-# explain-for-understanding
+#Best Output format for Understanding 
 
 An agent skill for **Claude Code** and **Codex** that makes the agent pick the most digestible output format when you need to understand, review, or oversee something complex, instead of defaulting to a wall of prose.
 
